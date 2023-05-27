@@ -5,7 +5,7 @@ My PROGECTS:
 
   •	I was able to answer these questions :
 
-  •	The maximum , minimum and the average of the market prices Over the time between 2014 to 2021
+  •	The maximum , minimum and the average of the market prices Over the time between 2014 to 2021.
 
   •	I was able to clean the data by looking for any missing data and duplicates and also was able to care of data validation process.
 
