@@ -7,9 +7,9 @@ My PROGECTS:
 
   •	The maximum , minimum and the average of the market prices Over the time between 2014 to 2021.
 
-  •	I was able to clean the data by looking for any missing data and duplicates and also was able to care of data 
+  •	I was able to clean the data by looking for any missing data and duplicates and also was able to care of data  validation process.
   
-        validation process.
+        
 
   •	I was able to use tools like python, excel and power pi.
 
