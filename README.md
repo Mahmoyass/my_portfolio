@@ -36,7 +36,7 @@ My PROGECTS:
 
   • I was able to define the main reasons for the customer churn process using different kinds of charts and statistics by Excel.
 
-
+6_ Data Cleaning using SQL project
 
 
 
