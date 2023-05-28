@@ -4,7 +4,7 @@
 select*
 from dbo.[Nashville Housing]
 
---standdardize date format
+--standardize date format
 
 select SaleDateConverted,CONVERT(Date,SaleDate)
 from dbo.[Nashville Housing]
